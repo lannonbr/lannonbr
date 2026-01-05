@@ -6,4 +6,4 @@ I'm Benjamin, A web developer based out of Upstate New York. My programming inte
 
 - [product-age](https://github.com/lannonbr/product-age): A web app to see how old various pieces of tech I own are.
 - [pkmn-tcg-app](https://github.com/lannonbr/pkmn-tcg-app): A web app to track pokemon TCG card prices.
-- [jeff-bot](https://github.com/lannonbr/jeff-bot): A Discord bot to track releases of Marvel comic books
+- [Weeknotes Collector](https://github.com/lannonbr/weeknotes-dashboard/): A web app to collect articles and posts over the week that I want to aggregate on my website
